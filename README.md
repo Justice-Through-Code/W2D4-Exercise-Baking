@@ -18,16 +18,16 @@ Begin getting comfortable with different string formats and methods
 
 ### Assignment Overview
 
-You are making a shopping list to take the store so that you can bake your favorite dessert.
+You are making a shopping list to take the store so you can bake your favorite dessert.
 
-You're pretty sure you remember the ingredients, but something doesn't look quite right. 
+You're pretty sure you remembered to add all of required the ingredients, but something doesn't look quite right. 
 
 Let's try printing the ingredients out a few different ways to see if we can spot the issue.
 
 
 Follow the instructions in `baking.py` to get cooking.
 
-And REMEMBER: Comment out or delete the calls to your functions-- the tests can't run with them!
+REMEMBER: Comment out or delete the calls to your functions -- the TEST can not run with them!
 ---
 
 ## Summary
