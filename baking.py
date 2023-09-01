@@ -20,6 +20,7 @@ def print_ingredients():  # Ways to work with strings/printing
 
 
 def confirm_ingredients():  # String methods
+    global ingredient_1, ingredient_2, ingredient_3, ingredient_4
     # 2.1 Save the f-string you wrote above into a variable called `ingredients`.
     
     # Aha, that's the issue! We need to use butter, not milk.
